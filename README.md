@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/thomasvergne/ultra">
-    <img src="assets/logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/logo.png" alt="Logo">
   </a>
 
 <h3 align="center">Ultra</h3>
