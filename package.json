@@ -1,0 +1,10 @@
+{
+  "name": "ultra",
+  "version": "0.0.1",
+  "description": "Ultra is the brand-new all-in-one Javascript tool for managing all sort of tasks.",
+  "main": ".",
+  "repository": "https://github.com/thomasvergne/ultra.git",
+  "author": "thomasvergne <thomas@quark-lang.dev>",
+  "license": "MIT",
+  "private": false
+}
