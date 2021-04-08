@@ -3,6 +3,18 @@
   "version": "0.0.1",
   "description": "Ultra is the brand-new all-in-one Javascript tool for managing all sort of tasks.",
   "main": ".",
+  "scripts": {
+    "start": "yarn esbuild src/main.ts --bundle --platform=node > index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^7.2.0",
+    "esbuild": "^0.11.6",
+    "pkg-dir": "^5.0.0",
+    "string-similarity": "^4.0.4",
+    "toml": "^3.0.0",
+    "yarn": "^1.22.10"
+  },
   "repository": "https://github.com/thomasvergne/ultra.git",
   "author": "thomasvergne <thomas@quark-lang.dev>",
   "license": "MIT",
